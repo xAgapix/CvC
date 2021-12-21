@@ -1,0 +1,288 @@
+[api-updater (non-obsolete-error-filter)] 12/12/2021 6:32:24 PM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 5951.9373ms
+moved types parse time: 234ms
+candidates parse time : 4ms
+C# parse time         : 2079ms
+candidates check time : 164ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 12/12/2021 6:38:05 PM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 511.3407ms
+moved types parse time: 158ms
+candidates parse time : 4ms
+C# parse time         : 941ms
+candidates check time : 107ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/12/2021 6:51:17 PM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 466.7801ms
+moved types parse time: 163ms
+candidates parse time : 4ms
+C# parse time         : 689ms
+candidates check time : 135ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/12/2021 6:54:48 PM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1207.1531ms
+moved types parse time: 158ms
+candidates parse time : 7ms
+C# parse time         : 839ms
+candidates check time : 110ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/12/2021 6:56:59 PM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 368.1025ms
+moved types parse time: 120ms
+candidates parse time : 2ms
+C# parse time         : 563ms
+candidates check time : 155ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 12/12/2021 6:58:09 PM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 280.073ms
+moved types parse time: 139ms
+candidates parse time : 3ms
+C# parse time         : 548ms
+candidates check time : 102ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 12/12/2021 7:05:22 PM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 339.3356ms
+moved types parse time: 75ms
+candidates parse time : 2ms
+C# parse time         : 348ms
+candidates check time : 75ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/12/2021 7:08:11 PM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 687.2973ms
+moved types parse time: 85ms
+candidates parse time : 2ms
+C# parse time         : 512ms
+candidates check time : 77ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/12/2021 7:10:56 PM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from C:\Users\rylle\OneDrive\Desktop\Game Dev\CvC\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from C:\Users\rylle\OneDrive\Desktop\Game Dev\CvC\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 208.7475ms
+moved types parse time: 89ms
+candidates parse time : 2ms
+C# parse time         : 411ms
+candidates check time : 73ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/12/2021 7:12:48 PM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2028.9017ms
+moved types parse time: 178ms
+candidates parse time : 2ms
+C# parse time         : 573ms
+candidates check time : 89ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/12/2021 7:14:08 PM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1008.6911ms
+moved types parse time: 96ms
+candidates parse time : 2ms
+C# parse time         : 393ms
+candidates check time : 69ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 13/12/2021 1:30:39 AM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from C:\Users\rylle\OneDrive\Desktop\Game Dev\CvC\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from C:\Users\rylle\OneDrive\Desktop\Game Dev\CvC\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 790.2352ms
+moved types parse time: 175ms
+candidates parse time : 3ms
+C# parse time         : 1005ms
+candidates check time : 183ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 13/12/2021 2:07:28 AM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 800.5376ms
+moved types parse time: 97ms
+candidates parse time : 3ms
+C# parse time         : 525ms
+candidates check time : 79ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 14/12/2021 10:16:45 AM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1499.479ms
+moved types parse time: 125ms
+candidates parse time : 4ms
+C# parse time         : 638ms
+candidates check time : 124ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 14/12/2021 10:19:00 AM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 265.7036ms
+moved types parse time: 129ms
+candidates parse time : 4ms
+C# parse time         : 555ms
+candidates check time : 97ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 14/12/2021 10:19:16 AM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 183.86ms
+moved types parse time: 112ms
+candidates parse time : 3ms
+C# parse time         : 435ms
+candidates check time : 99ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 14/12/2021 10:28:09 AM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 267.6768ms
+moved types parse time: 158ms
+candidates parse time : 3ms
+C# parse time         : 1736ms
+candidates check time : 327ms
+console write time    : 5ms
+
+[api-updater (non-obsolete-error-filter)] 14/12/2021 10:29:34 AM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 546.6192ms
+moved types parse time: 210ms
+candidates parse time : 4ms
+C# parse time         : 565ms
+candidates check time : 118ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 14/12/2021 12:08:10 PM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 359.4852ms
+moved types parse time: 105ms
+candidates parse time : 2ms
+C# parse time         : 220ms
+candidates check time : 35ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 17/12/2021 3:45:19 PM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1516.7799ms
+moved types parse time: 124ms
+candidates parse time : 3ms
+C# parse time         : 672ms
+candidates check time : 150ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 18/12/2021 7:30:05 PM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2235.2986ms
+moved types parse time: 130ms
+candidates parse time : 4ms
+C# parse time         : 624ms
+candidates check time : 95ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 19/12/2021 10:34:02 AM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2380.2477ms
+moved types parse time: 120ms
+candidates parse time : 4ms
+C# parse time         : 734ms
+candidates check time : 95ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 19/12/2021 10:36:12 AM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 374.9749ms
+moved types parse time: 153ms
+candidates parse time : 3ms
+C# parse time         : 517ms
+candidates check time : 131ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 19/12/2021 11:17:51 AM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 402.5739ms
+moved types parse time: 103ms
+candidates parse time : 2ms
+C# parse time         : 472ms
+candidates check time : 106ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 19/12/2021 11:23:55 PM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1994.5323ms
+moved types parse time: 172ms
+candidates parse time : 4ms
+C# parse time         : 880ms
+candidates check time : 146ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 20/12/2021 2:30:14 PM : Starting C:/Users/rylle/OneDrive/Desktop/Game Dev/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2328.8261ms
+moved types parse time: 124ms
+candidates parse time : 3ms
+C# parse time         : 549ms
+candidates check time : 80ms
+console write time    : 1ms
+
